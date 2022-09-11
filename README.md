@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on A simple OS
 - 📫 How to reach me N/A
 
-Shoutout to Mr. Lemus, my former tech teacher at school.
 
 <!---
 DiamondCoder1000/DiamondCoder1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
